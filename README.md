@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Omid Askari-Haddad 👋
 
-<!--
-**omidaskari/omidaskari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Engineering Master's student specializing in **hardware design** and **artificial intelligence**. My work focuses on optimizing the synergy between digital hardware and AI for high‑performance systems.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **digital-logic-design** – Verilog modules implementing a 4‑bit ripple‑carry adder, testbench, and other logic circuits.
+- **data-structures** – Python implementations of classic data structures like stacks and queues with usage examples.
+- **advanced-programming** – Demonstrations of advanced programming techniques such as multithreading in Python to compute sums in parallel.
+- **CV-website** – A personal website built with Django to showcase my résumé and projects.
+
+Feel free to explore these and other repositories listed on my profile.
+
+## 🦀 Skills
+
+- **Languages:** Python, C/C++, Verilog, HTML/CSS
+- **Tools & Frameworks:** FPGA design tools, Git, Linux, MATLAB, Django
+- **Areas of Interest:** Digital logic design, computer architecture, hardware–software co‑design, AI accelerators
+
+## 📨 Get in Touch
+
+I'm open to research collaborations, internships, and academic discussions. Reach me via:
+
+- GitHub: open an issue on any repository
+- Email: [email@example.com](mailto:email@example.com)
+
+## 📈 GitHub Stats
+
+![Omid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidaskari&show_icons=true&theme=default)

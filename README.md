@@ -22,7 +22,7 @@ Feel free to explore these and other repositories listed on my profile.
 I'm open to research collaborations, internships, and academic discussions. Reach me via:
 
 - GitHub: open an issue on any repository
-- Email: [email@example.com](mailto:email@example.com)
+- Email: [omidahaddad@gmail.com](mailto:omidahaddad@gmail)
 
 ## 📈 GitHub Stats
 
